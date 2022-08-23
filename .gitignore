@@ -1,0 +1,6 @@
+venv/
+vscode/
+node_modules/
+test/
+build/
+__pycache__/
